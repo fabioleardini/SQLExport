@@ -1,0 +1,20 @@
+E:\SQLExport\SQLExport\bin\x86\Release\SQLExport.exe.config
+E:\SQLExport\SQLExport\bin\x86\Release\SQLExport.exe
+E:\SQLExport\SQLExport\bin\x86\Release\SQLExport.pdb
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.csprojResolveAssemblyReference.cache
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.Form1.resources
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.Properties.Resources.resources
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.csproj.GenerateResource.Cache
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.exe
+E:\SQLExport\SQLExport\obj\x86\Release\SQLExport.pdb
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\bin\x86\Release\SQLExport.exe.config
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.exe
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.pdb
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\bin\x86\Release\SQLExport.exe
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\bin\x86\Release\SQLExport.pdb
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.csprojResolveAssemblyReference.cache
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.Form1.resources
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.Properties.Resources.resources
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.csproj.GenerateResource.Cache
+C:\Users\fabio.leardini\Desktop\SQLExport\SQLExport\obj\x86\Release\SQLExport.Senha.resources
+F:\SML\Projects\SQLExport - Cópia\SQLExport\bin\x86\Release\SQLExport.exe.config
